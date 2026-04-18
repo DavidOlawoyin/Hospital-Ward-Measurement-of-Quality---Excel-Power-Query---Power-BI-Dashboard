@@ -1,0 +1,2 @@
+# Hospital-Ward-Measurement-of-Quality---Excel-Power-Query---Power-BI-Dashboard
+Healthcare analytics dashboard built with Power BI to analyse hospital ward quality metrics (falls, hand hygiene, nutrition &amp; hydration , and pressure ulcer prevention) to track compliance against a 90% standard and support patient safety improvements using Excel Power Query - Power BI Dashboard for data Visualization.
